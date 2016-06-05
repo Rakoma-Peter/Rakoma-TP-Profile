@@ -1,0 +1,17 @@
+***********************************  Usage of this software *********************************  
+
+Please note that this project may not be duplicated without permission from its stakeholders!
+---------------------------------------------------------------------------------------------
+For any quiries or information contact me at
+
+e-mail: rakomatp94@gmail.com
+cell: 079 0974 928
+
+
+***********************************  Deployment *********************************************
+
+1. If you dont have the required softwares to deploy the system,
+ simply refere to the "IDC30BT Project RakomaTP 213159259.pdf" 
+and in the index page of this document go to user  to have a picture 
+of how the system works.
+
